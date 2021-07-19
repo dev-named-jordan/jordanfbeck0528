@@ -1,11 +1,12 @@
 ![Jordan’ github stats](https://github-readme-stats.vercel.app/api?username=jordanfbeck0528&show_icons=true&theme=tokyonight)
 ## Hi there 👋
 
- ### 🌱 I’m currently learning Software Development, and set to graduate Turing School of Software and Design, June 2021.
- ### 🔭 I’m currently working on Selector, a group capstone project using Spotify, and Discogs APIs.
+ ### 🌱 I’m currently learning Software Development, and graduated Turing School of Software and Design in June 2021.
+ ### 🥇 Check out my last project, which won 1st place in Turings Demo Comp, this July! https://github.com/selector-turing/back_end
+ ### 🔭 I’m currently working on Telepic, a fun drawing game for groups of friends. https://github.com/Telepic-Game 
  ### 🌎 I’m looking to collaborate on non-profit/volunteer work, geography focused apps/games(e.g. geoguessr!)
  ### 🥟 Ask me about - Vinyl Records, Artisan Bread baking, Gardening, Sommelier stuff, My band, International Street foods! 
- ### 🕵 I’m looking for peers who want to pair code, and learn some Python together.
+ ### 🕵 I’m looking for peers who want to pair code, and learn some Python together. Interested in conecting with someone interested/experienced with Hotwire
  ### 😄 Pronouns: he/him
 
 <!--
