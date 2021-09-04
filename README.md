@@ -6,7 +6,6 @@
  ### 🔭 I’m currently working on Telepic, a fun drawing game for groups of friends. https://github.com/Telepic-Game 
  ### 🌎 I’m additionally looking to collaborate on non-profit/volunteer work, geography focused apps/games(e.g. geoguessr!)
  ### 🥟 Ask me about - Vinyl Records, Artisan Bread baking, Gardening, Sommelier stuff, My band, International Street foods! 
- ### 🕵 I’m looking for peers who want to pair code, and learn some Python together. Interested in conecting with someone interested/experienced with Hotwire
  ### 😄 Pronouns: he/him
 
 <!--
