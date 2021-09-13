@@ -2,7 +2,7 @@
 ## Hi there 👋
 
  ### 🌱 I’m a software developer, and graduated Turing School of Software and Design in June 2021.
- ### 🥇 Check out my last project, [Selector](https://github.com/selector-turing), which won 1st place in Turings Demo Comp, this July 2021! https://github.com/selector-turing/back_end
+ ### 🥇 Check out my last project, [Selector](https://github.com/selector-turing/back_end), which won 1st place in Turing's Demo Comp, this July 2021! 
  ### 🔭 I’m currently working on [Telepic](https://github.com/Telepic-Game), with my friend [Kris Litman](https://github.com/krislitman). Telepic is a fun drawing game, for groups of friends. 
  ### 🌎 I’m additionally looking to collaborate on non-profit/volunteer work, geography focused apps/games(e.g. geoguessr!)
  ### 🥟 Ask me about - Vinyl Records, Artisan Bread baking, Gardening, Sommelier stuff, My band, International Street foods! 
