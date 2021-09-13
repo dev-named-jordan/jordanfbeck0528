@@ -6,7 +6,6 @@
  ### 🔭 I’m currently working on [Telepic](https://github.com/Telepic-Game), with my friend [Kris Litman](https://github.com/krislitman). Telepic is a fun drawing game, for groups of friends. 
  ### 🌎 I’m additionally looking to collaborate on non-profit/volunteer work, geography focused apps/games(e.g. geoguessr!)
  ### 🥟 Ask me about - Vinyl Records, Artisan Bread baking, Gardening, Sommelier stuff, My band, International Street foods! 
- ### 😄 Pronouns: he/him
 
 <!--
 **jordanfbeck0528/jordanfbeck0528** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. https://github.com/anuraghazra/github-readme-stats
