@@ -1,13 +1,13 @@
 ![Jordan’ github stats](https://github-readme-stats.vercel.app/api?username=jordanfbeck0528&show_icons=true&theme=tokyonight)
 ## Hi there 👋
-
+<!--
  ### 🌱 I’m a software developer, and graduated Turing School of Software and Design in June 2021.
  ### 🥇 Check out my last project, [Selector](https://github.com/selector-turing/back_end), which won 1st place in Turing's Demo Comp, this July 2021! 
  ### 🔭 I’m currently working on [Telepic](https://github.com/Telepic-Game), with my friend [Kris Litman](https://github.com/krislitman). Telepic is a fun drawing game, for groups of friends. 
  ### 🌎 I’m additionally looking to collaborate on non-profit/volunteer work, geography focused apps/games(e.g. geoguessr!)
  ### 🥟 Ask me about - Vinyl Records, Artisan Bread baking, Gardening, Sommelier stuff, My band, International Street foods! 
 
-<!--
+
 **jordanfbeck0528/jordanfbeck0528** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. https://github.com/anuraghazra/github-readme-stats
 
 
